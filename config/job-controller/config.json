@@ -33,7 +33,7 @@
       },
       {
         "currentOperation": "http://lblod.data.gift/id/jobs/concept/TaskOperation/diff",
-        "nextOperation": "http://lblod.data.gift/id/jobs/concept/TaskOperation/checking-urls",
+        "nextOperation": "http://lblod.data.gift/id/jobs/concept/TaskOperation/ai-extraction",
         "nextIndex": "6"
       }
     ]
